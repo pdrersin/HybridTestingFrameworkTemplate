@@ -1,0 +1,14 @@
+.idea/
+target/
+target*/
+*.iml
+!README.md
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+.eclipse
+!.gitignore
+!.keepfile
+
