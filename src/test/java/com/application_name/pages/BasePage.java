@@ -6,4 +6,5 @@ public class BasePage {
 
     // Hello , comment from Mj
     // second comment from Mj
+    // we are practicing do changes with terminal
 }
