@@ -4,4 +4,7 @@ public class BasePage {
 
     //Hello from Batch 21
 
+    // Hello , comment from Mj
+    // second comment from Mj
+    // we are practicing do changes with terminal
 }
